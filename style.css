@@ -1,0 +1,26 @@
+body { 
+    margin:0;
+    font-family: "Montserrat", sans-serif;
+    background-color: darkcyan;
+}
+
+header{
+    margin-top: 3cm;
+    text-align:center;
+    color:rgb(236, 230, 230);
+}
+
+header h1 {
+    font-size: 2cm;
+    font-weight: 900;
+
+
+}
+
+#Container3D{
+    width:50vw !important;
+    height : 50vw !important;
+    position: absolute;
+    top: 0; 
+    left: 0 ; 
+}
